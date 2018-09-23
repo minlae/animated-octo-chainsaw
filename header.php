@@ -349,9 +349,9 @@ $headerimg = get_post_meta(get_the_ID(), 'headerimg', true);
         </div>
 
       <script type="text/javascript">
-        jQuery(function($) {
-          $("#menu-item-219, #menu-item-225, #menu-item-322").children("a").attr('href', "javascript:void(0)");
-        });
+       // jQuery(function($) {
+          //$("#menu-item-219, #menu-item-225, #menu-item-322").children("a").attr('href', "javascript:void(0)");
+        //});
 
       </script>
     </header>  
